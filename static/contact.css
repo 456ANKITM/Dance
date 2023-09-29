@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    margin: 12px 0;
+}
+
+.myform{
+    
+}
+.myinput{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: 10px 0px;
+    
+}
